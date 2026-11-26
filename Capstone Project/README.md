@@ -20,8 +20,8 @@ A modern, full-stack campus accommodation and automated room allocation manageme
 | Service | Live URL | Description |
 | :--- | :--- | :--- |
 | **Frontend Portal** | [https://hostel-allocation-frontend-fyit.onrender.com](https://hostel-allocation-frontend-fyit.onrender.com/dashboard) | Responsive Next.js Web Application |
-| **Backend API** | [https://hostel-allocation-api.onrender.com](https://hostel-allocation-api.onrender.com) | Express & TypeScript REST API |
-| **API Health Check** | [https://hostel-allocation-api.onrender.com/api/health](https://hostel-allocation-api.onrender.com/api/health) | Real-time container & database status |
+| **Backend API** | [https://hostel-allocation-api-fyit.onrender.com](https://hostel-allocation-api-fyit.onrender.com) | Express & TypeScript REST API |
+| **API Health Check** | [https://hostel-allocation-api-fyit.onrender.com/api/health](https://hostel-allocation-api-fyit.onrender.com/api/health) | Real-time container & database status |
 
 ---
 
